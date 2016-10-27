@@ -6,6 +6,8 @@
 
 上記2つの特性をON/OFF出来るボタン
 
+<img src="https://raw.githubusercontent.com/R-ToS/ToS-Addon/img/screenshot-01.jpg" alt="">
+
 ### インストール方法
 
 #### [Tree of Savior Addon Manager](https://github.com/Excrulon/Tree-of-Savior-Addon-Manager/releases/) をインストールしている場合  
