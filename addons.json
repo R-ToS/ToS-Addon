@@ -1,0 +1,12 @@
+[
+	{
+		"name" : "tkb",
+		"file" : "tkb",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.0",
+		"releaseTag" : "tkb",
+		"unicode" : "⛄",
+		"description" : "クレリックの[ヒールダメージ除去]とソードマンの[プロヴォック]の特性をON/OFF出来るボタン",
+		"tags" : [ "skill", "attribute" ]
+	}
+]
